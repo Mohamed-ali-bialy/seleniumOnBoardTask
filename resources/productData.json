@@ -1,0 +1,14 @@
+{
+    "Samsung galaxy s6": {
+        "price": "$360 *includes tax",
+        "description": "Samsung Galaxy S6 is the latest smartphone with advanced features and a sleek design."
+    },
+    "Nokia lumia 1520": {
+        "price": "$820 *includes tax",
+        "description": "Nokia Lumia 1520 is a Windows-based smartphone with a large screen and powerful performance."
+    },
+    "HTC One M9": {
+        "price": "$700 *includes tax",
+        "description": "The HTC One M9 is powered by 1.5GHz octa-core Qualcomm Snapdragon 810 processor and it comes with 3GB of RAM. The phone packs 32GB of internal storage that can be expanded up to 128GB via a microSD card."
+    }
+}
